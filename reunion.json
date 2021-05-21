@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"@\/floax\/remote\/salle-cafe"
+                 "value":"..\/..\/..\/..\/..\/@\/floax\/remote\/salle-cafe"
                 }],
          "type":"tilelayer",
          "visible":true,
