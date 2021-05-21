@@ -139,7 +139,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/rooms\/reunion.json"
+                 "value":"reunion.json"
                 }],
          "type":"tilelayer",
          "visible":true,
