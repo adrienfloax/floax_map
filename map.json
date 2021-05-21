@@ -139,7 +139,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"@\/floax\/remote\/floaxreunion"
+                 "value":"..\/..\/..\/..\/..\/@\/floax\/remote\/floaxreunion"
                 }],
          "type":"tilelayer",
          "visible":true,
