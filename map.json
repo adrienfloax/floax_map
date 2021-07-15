@@ -21,6 +21,12 @@
          "id":49,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"string",
+                 "value":"true"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
